@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2024 23:04:00 -0400</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Blog Post</title>
+      <link>//localhost:1313/posts/2024/may/10/first-blog-post/</link>
+      <pubDate>Fri, 10 May 2024 23:04:00 -0400</pubDate>
+      <guid>//localhost:1313/posts/2024/may/10/first-blog-post/</guid>
+      <description>Welcome! This is the first post I&amp;rsquo;m making on this blog!&#xA;Initially when I thought of creating a blog, I was thinking of building everything from the ground up. But thankfully tools like Hugo exist, so I don&amp;rsquo;t have to go through that trouble.&#xA;I will be using this blog primarily as an outlet for me to write about things related to programming. Don&amp;rsquo;t expect any frequent posts though.</description>
+    </item>
+  </channel>
+</rss>
